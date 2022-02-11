@@ -1,6 +1,3 @@
-//testing the pull
-
-
 import java.awt.Graphics2D;
 import java.util.Arrays;
 import java.util.List;
