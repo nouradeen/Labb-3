@@ -80,6 +80,3 @@ public class Ball extends Sprite {
     }
     
 }
-
-
-//testing
