@@ -37,7 +37,7 @@ public class Ball extends Sprite {
         } else if(state == BallState.TurningRight){
             setX(getX() + 5);
         } else if(state == BallState.Dead){
-            setX(WIDTH/2);
+            setX(WIDTH/2 - 15);
             setY(HEIGHT/2);
             System.out.println("You lost!!!!!!!");
             state = BallState.Idle;
